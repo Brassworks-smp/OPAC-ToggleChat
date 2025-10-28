@@ -6,7 +6,7 @@
   <strong>OPAC ToggleChat</strong> is an addon for
   <a href="https://github.com/DerErneuerer/OpenPaC" target="_blank">OpenPaC</a>,
   developed for use on the
-  <a href="https://brassworks.572.at/" target="_blank">Brassworks SMP</a>.
+  <a href="https://brassworks.opnsoc.org/" target="_blank">Brassworks SMP</a>.
 </p>
 
 <p>
@@ -57,6 +57,5 @@
 
 <ul>
   <li>Project Repository: <a href="https://github.com/DerErneuerer/OPAC-ToggleChat" target="_blank">OPAC-ToggleChat on GitHub</a></li>
-  <li>Brassworks SMP Website: <a href="https://brassworks.572.at/" target="_blank">brassworks.572.at</a></li>
-  <li>OpenPaC Repository: <a href="https://github.com/DerErneuerer/OpenPaC" target="_blank">OpenPaC</a></li>
+  <li>Brassworks SMP Website: <a href="https://brassworks.opnsoc.org/" target="_blank">brassworks.572.at</a></li>
 </ul>
