@@ -14,8 +14,8 @@
 </p>
 
 <ul>
-  <li><code>/opmtoggle</code> – Toggles OpenPaC message visibility in chat.</li>
-  <li><code>/opmstatus</code> – Displays the current chat toggle status.</li>
+  <li><code>/opmtoggle</code> - Toggles OpenPaC party chat.</li>
+  <li><code>/opmstatus</code> - Displays the current chat toggle status.</li>
 </ul>
 
 <p>
